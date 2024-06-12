@@ -23,16 +23,16 @@ This project aims to create a Retrieval-Augmented Generation (RAG) chatbot. This
    ```
 
 3. **Activate the virtual environment**
-  On Windows:
-
-  ```bash
-  .\venv\Scripts\activate
-  ```
-On macOS/Linux:
-
-  ```bash
-source venv/bin/activate
-```
+     On Windows:
+   
+     ```bash
+     .\venv\Scripts\activate
+     ```
+   On macOS/Linux:
+   
+     ```bash
+   source venv/bin/activate
+   ```
 
 4. **Install the required packages:**
 
